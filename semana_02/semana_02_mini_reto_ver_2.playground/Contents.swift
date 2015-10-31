@@ -19,3 +19,6 @@ for var contador = 0; contador <= 100; contador++ {
         print("#\(mensaje) #impar")
     }
 }
+
+let precio : Double = nil
+let cantidad : Double
